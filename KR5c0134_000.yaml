@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5c0134/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 莊子內篇訂正
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 00:31:42.166647'
+  source:
+    repository: kanripo
+    path: KR5c0134/KR5c0134_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:e65e5b2d91ee1a2b8ee253cea5283386303a6fe508a7ede28c48bb8af13f9f8c
